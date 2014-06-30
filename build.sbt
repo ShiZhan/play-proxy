@@ -1,4 +1,4 @@
-name := "play-proxy"
+name := "PlayProxy"
 
 version := "1.0"
 
